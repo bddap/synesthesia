@@ -1,9 +1,5 @@
 Can the phenomenon known as [synesthesia](https://en.wikipedia.org/wiki/Synesthesia) be harnessed so that someone can receive and perceive sound in real time, without the use of auditory sensory organs.
 
-# Problem
-
-People be deaf.
-
 # Proposal
 
 Encode audio information to be transferred into the brain via some other human sense. The hope is that the information be perceived using the same neural pathways that would normally be used for perceiving sound.
